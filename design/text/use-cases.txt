@@ -1,0 +1,25 @@
+Users:
+    1. Library staff (Librarians)
+    2. Borrowers
+    3. Network agents?
+
+Librarians:
+    - Add items to library catalog
+    - Remove items from library catalog
+    - Update book information e.g. Mark as lost
+    - View all items that have been borrowed
+    - Register a new Borrower
+    - Close a Borrower account
+    - Lend an item to Borrower
+    - See all overdue items
+    - Bill Borrowers for overdue items
+
+Borrowers:
+    - Check where an item is physically located
+    - Pay their fines
+    - Search for item e.g. by some category, or by similarity to other item
+    - Open/Close an account
+    - Book reading place / computer
+
+Network Agents:
+    - Flesh out later
